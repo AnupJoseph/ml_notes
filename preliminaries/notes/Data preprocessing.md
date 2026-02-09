@@ -1,0 +1,1 @@
+Empty values are called missing values. Depending upon the context, missing values might be handled either via imputation or deletion. Imputation replaces missing values with estimates of their values while deletion simply discards either those rows or those columns that contain missing values.
